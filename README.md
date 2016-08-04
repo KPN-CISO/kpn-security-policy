@@ -16,3 +16,6 @@ In this app you find our security approach, policies and tools (Common Vulnerabi
 
 ## Support / Assistance
 https://www.kpn.com/zakelijk/grootzakelijk/oplossingen/security-continuity.htm
+
+## KPN Security Policy releases
+The releases are bundled per git tag.
