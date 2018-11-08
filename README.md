@@ -1,14 +1,20 @@
 # KPN Security Policy
 
 ## Content
-The KPN Security Policy as published on the KPN intranet, minus the guidelines whom are tied to internal processes. Only these specific files are withheld.
+The KPN Security Policy on physical security, information security, business continuity and privacy.
 
-## Press release
-https://corporate.kpn.com/pers/persberichten/kpn-publiceert-securitybeleid-in-app-voor-professionals.htm (Dutch)
+## Not published
+The guideline documents and tools. The motivation is that we do not publish information that can be tied back to our internal processes as we consider this confidential information.
 
+## Sharing is caring philosophy
+We hope to inspire readers to learn about our choices and perhaps copy ideas. We are open for feedback to also learn from other experiences.
 
-## Support / Assistance
-https://www.kpn.com/zakelijk/grootzakelijk/oplossingen/security-continuity.htm
+## European Cyber Security Perspectives
+https://overons.kpn/nl/nieuws/2018/kpn-publiceert-vijfde-editie-european-cyber-security-perspectives
+
+## KPN Security
+https://www.kpn.com/zakelijk/grootzakelijk/security.htm
+
 
 ## KPN Security Policy releases
 The releases are bundled per git tag.
