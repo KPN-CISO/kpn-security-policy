@@ -1,4 +1,4 @@
-# KPN Security Policy
+# KPN Security Policy created by the KPN CISO Office
 
 ## Content
 The KPN Security Policy on physical security, information security, business continuity and privacy.
@@ -9,11 +9,8 @@ The guideline documents and tools. The motivation is that we do not publish info
 ## Sharing is caring philosophy
 We hope to inspire readers to learn about our choices and perhaps copy ideas. We are open for feedback to also learn from other experiences.
 
-## European Cyber Security Perspectives
-https://overons.kpn/nl/nieuws/2018/kpn-publiceert-vijfde-editie-european-cyber-security-perspectives
-
 ## KPN Security
-https://www.kpn.com/zakelijk/grootzakelijk/security.htm
+https://www.kpn.com/zakelijk/security.htm
 
 
 ## KPN Security Policy releases
