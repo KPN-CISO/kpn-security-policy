@@ -14,8 +14,12 @@ https://www.kpn.com/zakelijk/security.htm
 
 ## Alternative options to gain access to the KPN Security Policy
 1. Google Play Store and Apple AppStore: search for "KPN CISO" for tablets and phones
-2. The website version is located at https://ciso-ksp.kpnnet.org
-3. On special request, the website also has an API.
+2. For KPN employees:
+    * with a company managed device: go to the Company Portal (Bedrijfsportal in Dutch) app and go to the Apps tab. Search for "KPN CISO" for the KSP app.
+    * On TeamKPN: select KPN and Security on the navigation bar or go directly to https://ksp.kpnnet.org 
+3. The public website version for external users, suppliers, customers, etc is located at https://ciso-ksp.kpnnet.org
+4. On special request, the public website also has an API.
+
 
 
 ## KPN Security Policy releases
