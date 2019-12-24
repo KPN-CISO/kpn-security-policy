@@ -12,7 +12,7 @@ We hope to inspire readers to learn about our choices and perhaps copy ideas. We
 ## KPN Security
 https://www.kpn.com/zakelijk/security.htm
 
-## Alternative options to gain access to the KPN Security
+## Alternative options to gain access to the KPN Security Policy
 1. Google Play Store and Apple AppStore: search for "KPN CISO" for tablets and phones
 2. The website version is located at https://ciso-ksp.kpnnet.org
 3. On special request, the website also has an API.
