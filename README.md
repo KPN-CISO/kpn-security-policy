@@ -1,5 +1,7 @@
 # KPN Security Policy created by the KPN CISO Office
 
+Go to https://ciso-ksp.kpnnet.org for the latest KPN Security Policy.
+
 
 ## Move to a new platform and the end of the KSP Github channel
 The KPN Security Policy was published on Github to openly and freely make our security, privacy and business continuity policy. We've made it available on Github for ease of use and a request from Twitter upon our initial publication through an iOS app.
